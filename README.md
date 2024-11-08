@@ -1,5 +1,5 @@
 # render-deploy-status
-[![Render Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frender-deploy-status.onrender.com%2Fsrv-clhcej58td7s73bnn9p0&query=%24.status&style=for-the-badge&logo=Render&label=Render)](https://dashboard.render.com/web/srv-clhcej58td7s73bnn9p0)
+[![Render Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frender-deploy-status.onrender.com%2Fsrv-clhcej58td7s73bnn9p0&query=%24.status&style=for-the-badge&logo=Render&label=Render)](https://webgames-xkr0.onrender.com/)
 ![Static Badge](https://img.shields.io/badge/Downloads-2.25K-blue?style=for-the-badge&logo=docker)
 
 
